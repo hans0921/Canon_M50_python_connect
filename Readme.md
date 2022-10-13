@@ -7,11 +7,11 @@ https://www.canon.es/cameras/eos-webcam-utility/
 
 Package
 
-conda install numpy\\
-conda install matplotlib\\
-conda install opencv\\
-conda install pytorch\\
-conda install -c conda-forge pyusb\\
+conda install numpy\n
+conda install matplotlib\n
+conda install opencv\n
+conda install pytorch\n
+conda install -c conda-forge pyusb\n
 
 -- pip install canon-remote --
 
